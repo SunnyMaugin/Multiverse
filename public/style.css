@@ -1,5 +1,7 @@
 /* Add your css here */
 
-.avatar {
-  width: 300px;
+@media(min-width: 768px) {
+  .getintouch-input {
+    width: 50%;
+  }
 }
